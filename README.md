@@ -16,4 +16,3 @@ Tampilan awal progam
    ![https://drive.google.com/file/d/1cpXuG6jGy2UfmXHNdnpfA9oY9JNylE5l/view?usp=sharing]
    dan juga mobil yang disewa datanya dihapus dari menu mobil tersedia
    ![https://drive.google.com/file/d/1CILFyUZ_Z_b8_eUhw1uCsEHas2IK1EEA/view?usp=sharing]
-# Sekian penjelasan singkat dari progam saya.
